@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\bin\Debug\net5.0\IntroGithub.exe
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\bin\Debug\net5.0\IntroGithub.deps.json
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\bin\Debug\net5.0\IntroGithub.runtimeconfig.json
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\bin\Debug\net5.0\IntroGithub.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\bin\Debug\net5.0\IntroGithub.dll
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\bin\Debug\net5.0\ref\IntroGithub.dll
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\bin\Debug\net5.0\IntroGithub.pdb
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\IntroGithub.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\IntroGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\IntroGithub.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\IntroGithub.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\IntroGithub.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\IntroGithub.dll
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\ref\IntroGithub.dll
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\IntroGithub.pdb
+C:\Users\HP\Desktop\Tareas\Año 2\Ciclo I\POO\The Defenders\Introduccion a Github\IntroGithub\obj\Debug\net5.0\IntroGithub.genruntimeconfig.cache
