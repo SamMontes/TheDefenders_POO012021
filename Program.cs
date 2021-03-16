@@ -7,6 +7,9 @@ namespace IntroGithub
         static void Main(string[] args)
         {
             int a = 0, b = 0;
+            
+            Console.WriteLine("<<<WELCOME TO SUM PROGRAM>>>");
+            Console.WriteLine("Please enter integer values");
 
             Console.WriteLine("Enter a value for a");
             a = Int32.Parse(Console.ReadLine());
