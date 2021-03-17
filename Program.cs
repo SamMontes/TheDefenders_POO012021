@@ -22,7 +22,7 @@ namespace IntroGithub
 
         public static int SubtractNumbers(int a, int b)
         {
-            return a-b;
+            return a*b;
         }
     }
 
