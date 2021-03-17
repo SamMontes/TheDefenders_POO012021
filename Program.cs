@@ -17,7 +17,7 @@ namespace IntroGithub
             Console.WriteLine("Enter a value for b");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Subtracting {a} - {b} equals {SubtractNumbers(a, b)}");
+            Console.WriteLine($"Multiplying {a} * {b} equals {SubtractNumbers(a, b)}");
         }
 
         public static int SubtractNumbers(int a, int b)
